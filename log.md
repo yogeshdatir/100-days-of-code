@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 18, 2021
+##### (the new Django-React E-commerce platform project)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created Navbar and Sign In Page for for the app. Integrated Django allauth, rest-framework. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Tasks to be completed**: 
+1. Create Registration feature design.
+2. Will be creating and testing login, register APIs this week.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I am focusing on UI with React, I want to improve Translating designs and wireframes into high-quality code.I really struggle with some complex css design part. But I think only way to get better at it is creating UI designs as many as possible regularly.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [ShopBasket E-commerce App](https://github.com/yogeshdatir/shopbasket/tree/dev/frontend/src/components/common)
