@@ -25,3 +25,15 @@
 
 **Link to work:** [Calculator](https://github.com/yogeshdatir/FCC-React-Calculator)
 
+### Day 2: April 20, 2021
+##### (React Typescript Calculator Project for FCC)
+
+**Today's Progress**: Added logic for the calculator.
+
+**Tasks to be completed**: 
+1. Fulfill remaining 1 user story for FCC test suite.
+
+**Thoughts:** Eval made it easy. But still couldn't figure out solution for last user story.
+
+**Link to work:** [Calculator](https://github.com/yogeshdatir/FCC-React-Calculator/blob/d4b256353e0e3e8b36f0fed92ef60b240bb57855/src/components/calculator/Calculator.tsx)
+
